@@ -22,7 +22,7 @@ class PantallaTres extends StatelessWidget {
           onPressed: () {
             Navigator.pop(context);
           },
-          child: const Text('Pantalla Inicial!'),
+          child: const Text('Pantalla Dos!'),
         ),
       ),
     );
